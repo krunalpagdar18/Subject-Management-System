@@ -13,4 +13,4 @@ This repository is Subject Managment system where proffessor can add multiple su
 - View Subject by Name :  subject/subjectName 
 
 ## Database Structure 
-![]()
+![database structure](./image.png)
